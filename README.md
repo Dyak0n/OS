@@ -210,12 +210,7 @@
 
 ----
 
-+ *Корисні посилання*:
-
-<br>
-
-[Звіт до лабораторної роботи №1]: https://docs.google.com/document/d/1EN1U8lCCD4poL4s4y8Ifxa_SrmAtnCpb/edit?usp=sharing&ouid=107687291397680987125&rtpof=true&sd=true 
-
-<br>
-
-[Звіт до лабораторної роботи №2]: https://docs.google.com/document/d/1eO5mUf3jFEEZGmThN5h9j2ZnBSY1q0bq/edit?usp=sharing&ouid=107687291397680987125&rtpof=true&sd=true 
++ **Корисні посилання**:
+[*Звіт до лабораторної роботи №1*](https://docs.google.com/document/d/1EN1U8lCCD4poL4s4y8Ifxa_SrmAtnCpb/edit?usp=sharing&ouid=107687291397680987125&rtpof=true&sd=true)
+[*Звіт до лабораторної роботи №2*](https://docs.google.com/document/d/1eO5mUf3jFEEZGmThN5h9j2ZnBSY1q0bq/edit?usp=sharing&ouid=107687291397680987125&rtpof=true&sd=true)
+[*Хостинг з усіма скрінами*](https://van-vanovic-popd.imgbb.com)
