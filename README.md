@@ -113,7 +113,7 @@
 
 <p align="center">
 
-  <img width="1010" height="300" src="https://i.ibb.co/0cywHqh/3.png">
+  <img width="1010" height="290" src="https://i.ibb.co/0cywHqh/3.png">
     
 </p>
 
@@ -127,5 +127,83 @@
 </p>
 
 #### <p align="center"> Малюнок 3.1. Відтворення сценарію перевірки імені </p>
+
+----
+
+### <p> 4. Пройти гру Git Learn та зробити скріншоти пройдених рівнів. </p>
+
+----
+
+<p align="center">
+
+  <img width="1010" height="880" src="https://i.ibb.co/kxhtsG9/4.png">
+    
+</p>
+
+#### <p align="center"> Малюнок 4. Скриншот пройдених рівнів Git Learn </p>
+
+<br>
+
+<p align="center">
+
+  <img width="1010" height="410" src="https://i.ibb.co/LxQ85WY/4-1.png">
+    
+</p>
+
+#### <p align="center"> Малюнок 4.1. Скриншот пройдених рівнів Git Learn </p>
+
+### <p> 5. Зробити *git init* папки із файлом *hello.txt* та *bash* скриптом. </p>
+
+----
+
+<p align="center">
+
+  <img width="1010" height="320" src="https://i.ibb.co/ydcFKTS/4.png">
+    
+</p>
+
+#### <p align="center"> Малюнок 5. Виконання команди *git init* </p>
+
+----
+
+### <p> 6. Зробити *git commit*. </p>
+
+----
+
+<p align="center">
+
+  <img width="1010" height="320" src="https://i.ibb.co/pJpN5Jh/5.png">
+    
+</p>
+
+#### <p align="center"> Малюнок 6. Виконання команди *git commit* </p>
+
+----
+
+### <p> 7. Зробити git push у віддалений репозиторій у вітку *lab_works_one_two*. </p>
+
+----
+
+<p align="center">
+
+  <img width="1010" height="310" src="https://i.ibb.co/18DLMq9/6.png">
+    
+</p>
+
+#### <p align="center"> Малюнок 7. Виконання команди *git push* </p>
+
+----
+
+### <p> 8. Додати в папку *Readme* файл із звітом до лабораторної, щоб його можна було передивлятись на репозиторію коли переходиш у вітку. </p>
+
+----
+
+<p align="center">
+
+  <img width="1010" height="320" src="https://i.ibb.co/2NkjRGB/2022-09-29-041145823.png">
+    
+</p>
+
+#### <p align="center"> Малюнок 8. Скриншот репозиторію з файлом *Readme* </p>
 
 ----
