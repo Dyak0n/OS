@@ -41,7 +41,7 @@
 
 |Команда                                         | Опис|
 |----                                            | ----|
-|ls                                              | Показує головний каталог та список доступних файлів|
+|*ls*                                            | Показує головний каталог та список доступних файлів|
 |*cd "назва каталогу"*                           | За допомогою цієї команди можна відкрити потрібний нам каталог|
 |*cd ..*                                         | Перехід на один рівень каталогу вверх|
 |*cd ~*                                          | Перехід в домашній каталог|
@@ -62,7 +62,7 @@
 
 <p align="center">
 
-  <img width="1010" height="340" src="https://i.ibb.co/rGw81dL/1.png">
+  <img width="1010" height="335" src="https://i.ibb.co/rGw81dL/1.png">
     
 </p>
 
@@ -89,7 +89,7 @@
 
 <p align="center">
 
-  <img width="1010" height="930" src="https://i.ibb.co/QpGSfQ2/1-1.png">
+  <img width="1010" height="925" src="https://i.ibb.co/QpGSfQ2/1-1.png">
     
 </p>
 
@@ -99,7 +99,7 @@
 
 <p align="center">
 
-  <img width="1010" height="125" src="https://i.ibb.co/F4N0y9J/3-1.png">
+  <img width="1010" height="120" src="https://i.ibb.co/F4N0y9J/3-1.png">
     
 </p>
 
@@ -113,15 +113,17 @@
 
 <p align="center">
 
-  <img width="1010" height="320" src="https://i.ibb.co/0cywHqh/3.png">
+  <img width="1010" height="300" src="https://i.ibb.co/0cywHqh/3.png">
     
 </p>
 
 #### <p align="center"> Малюнок 3. Код сценарію перевірки імені </p>
 
+<br>
+
 <p align="center">
 
-  <img width="1010" height="150" src="https://i.ibb.co/hcW1VBX/2-2.png">
+  <img width="1010" height="145" src="https://i.ibb.co/hcW1VBX/2-2.png">
 </p>
 
 #### <p align="center"> Малюнок 3.1. Відтворення сценарію перевірки імені </p>
