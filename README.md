@@ -62,7 +62,7 @@
 
 <p align="center">
 
-  <img width="1010" height="335" src="https://i.ibb.co/rGw81dL/1.png">
+  <img width="1010" height="330" src="https://i.ibb.co/rGw81dL/1.png">
     
 </p>
 
@@ -89,7 +89,7 @@
 
 <p align="center">
 
-  <img width="1010" height="925" src="https://i.ibb.co/QpGSfQ2/1-1.png">
+  <img width="1010" height="920" src="https://i.ibb.co/QpGSfQ2/1-1.png">
     
 </p>
 
@@ -99,7 +99,7 @@
 
 <p align="center">
 
-  <img width="1010" height="120" src="https://i.ibb.co/F4N0y9J/3-1.png">
+  <img width="1010" height="115" src="https://i.ibb.co/F4N0y9J/3-1.png">
     
 </p>
 
@@ -113,7 +113,7 @@
 
 <p align="center">
 
-  <img width="1010" height="290" src="https://i.ibb.co/0cywHqh/3.png">
+  <img width="1010" height="285" src="https://i.ibb.co/0cywHqh/3.png">
     
 </p>
 
@@ -123,7 +123,7 @@
 
 <p align="center">
 
-  <img width="1010" height="145" src="https://i.ibb.co/hcW1VBX/2-2.png">
+  <img width="1010" height="140" src="https://i.ibb.co/hcW1VBX/2-2.png">
 </p>
 
 #### <p align="center"> Малюнок 3.1. Відтворення сценарію перевірки імені </p>
@@ -136,7 +136,7 @@
 
 <p align="center">
 
-  <img width="1010" height="880" src="https://i.ibb.co/kxhtsG9/4.png">
+  <img width="1010" height="870" src="https://i.ibb.co/kxhtsG9/4.png">
     
 </p>
 
@@ -146,11 +146,13 @@
 
 <p align="center">
 
-  <img width="1010" height="410" src="https://i.ibb.co/LxQ85WY/4-1.png">
+  <img width="1010" height="400" src="https://i.ibb.co/LxQ85WY/4-1.png">
     
 </p>
 
 #### <p align="center"> Малюнок 4.1. Скриншот пройдених рівнів Git Learn </p>
+
+----
 
 ### <p> 5. Зробити *git init* папки із файлом *hello.txt* та *bash* скриптом. </p>
 
@@ -158,7 +160,7 @@
 
 <p align="center">
 
-  <img width="1010" height="320" src="https://i.ibb.co/ydcFKTS/4.png">
+  <img width="1010" height="315" src="https://i.ibb.co/ydcFKTS/4.png">
     
 </p>
 
@@ -172,7 +174,7 @@
 
 <p align="center">
 
-  <img width="1010" height="320" src="https://i.ibb.co/pJpN5Jh/5.png">
+  <img width="1010" height="315" src="https://i.ibb.co/pJpN5Jh/5.png">
     
 </p>
 
@@ -186,7 +188,7 @@
 
 <p align="center">
 
-  <img width="1010" height="310" src="https://i.ibb.co/18DLMq9/6.png">
+  <img width="1010" height="310" src="https://i.ibb.co/kJq77QR/6.png">
     
 </p>
 
@@ -200,7 +202,7 @@
 
 <p align="center">
 
-  <img width="1010" height="320" src="https://i.ibb.co/2NkjRGB/2022-09-29-041145823.png">
+  <img width="1010" height="310" src="https://i.ibb.co/2NkjRGB/2022-09-29-041145823.png">
     
 </p>
 
