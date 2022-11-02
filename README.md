@@ -508,7 +508,7 @@
 
 <p align="center">
 
-  <img width="1010" height="270" src="">
+  <img width="400" height="450" src="https://i.ibb.co/BcCXyFj/photo-2022-11-02-10-57-19.jpg">
     
 </p>
 
@@ -522,7 +522,7 @@
 
 <p align="center">
 
-  <img width="1010" height="270" src="">
+  <img width="400" height="120" src="https://i.ibb.co/4tbnWsr/photo-2022-11-02-10-57-19-2.jpg">
     
 </p>
 
@@ -536,7 +536,7 @@
 
 <p align="center">
 
-  <img width="1010" height="270" src="">
+  <img width="400" height="170" src="https://i.ibb.co/fpLMxPZ/photo-2022-11-02-10-57-19-4.jpg">
     
 </p>
 
@@ -550,7 +550,7 @@
 
 <p align="center">
 
-  <img width="1010" height="270" src="">
+  <img width="600" height="270" src="https://i.ibb.co/PWhK8SV/photo-2022-11-02-10-57-19-3.jpg">
     
 </p>
 
@@ -560,7 +560,7 @@
 
 <p align="center">
 
-  <img width="1010" height="270" src="">
+  <img width="600" height="450" src="https://i.ibb.co/gW00cFQ/photo-2022-11-02-11-02-45.jpg">
     
 </p>
 
